@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DamaskErmakov/BMI/blob/main/splash.png?raw=true" alt="BMI EDAD Edition" width="30%" />
+  <img src="https://github.com/DamaskErmakov/BMI/blob/main/splash.png?raw=true" alt="BMI EDAD Edition" width="100%" />
 </p>
 
 🛡️ BMI: EDAD Edition
