@@ -30,7 +30,7 @@ Edited by Damask Ermakov | Assisted by DeepSeek
 
 🙏 Благодарности
 
-·Оригинальный проект: carbollo/BMI
+·Оригинальный проект: [carbollo/BMI](https://github.com/carbollo/BMI)
 
 ·Редакция и технические исправления: Damask Ermakov
 
