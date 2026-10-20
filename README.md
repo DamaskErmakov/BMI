@@ -1,3 +1,7 @@
+<img width="1251" height="686" alt="{3BE1BC20-1A6E-4D69-AFFE-87C109E1DF00}" src="https://github.com/user-attachments/assets/859534e9-f733-4d94-a3e6-0542c3fba5c0" /><p align="center">
+  <img src="https://github.com/DamaskErmakov/BMI/blob/main/splash.png?raw=true" alt="BMI EDAD Edition" width="100%" />
+</p>
+
 🛡️ BMI: EDAD Edition
 Edited by Damask Ermakov | Assisted by DeepSeek
 
